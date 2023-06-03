@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Prithvj Rah</h1>
+<h1 align="center"> Hi 👋, I'm Prithvi Raj</h1>
 <h3 align="center">A passionate iOS Developer from India</h3>
 
 - 🔭 I’m currently working on **Apple TV, Player, Analytics**
